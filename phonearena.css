@@ -1,0 +1,323 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    color: white;
+    text-decoration: none;
+}
+#nav{
+    border: 2px solid black;
+    width: 100%;
+    height: 5rem;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: .9em;
+    font-weight: bold;
+}
+#nav1{
+    position: relative;
+    top: 43%;
+    right: 14%;
+}
+#nav2{
+    position: relative;
+    top: 43%;
+    right: 14%;
+}
+#nav3{
+    position: relative;
+    top: 43%;
+    right: 14%;
+}
+#nav4{
+    position: relative;
+    top: 43%;
+    right: 14%;
+}
+#nav5{
+    position: relative;
+    top: 43%;
+    right: 14%;
+}
+#nav6{
+    position: relative;
+    top: 43%;
+    right: 14%;
+}
+#nav7{
+    position: relative;
+    top: 43%;
+    right: 14%;
+}
+#nav8{
+    position: relative;
+    top: 43%;
+    right: 14%;
+}
+#nav9{
+    position: relative;
+    top: 43%;
+    right: 14%;
+}
+#navA{
+    border: 2px solid black;
+    width: 100%;
+    height: 67rem;
+    background-color: rgb(2, 2, 17);
+    
+}
+#imgnav{
+    position: relative;
+    top: 5%;
+    left: 71%;
+}
+#imgbig{
+height: 30rem; 
+width: 58%;
+position: relative;
+top: 6%;
+left: 9%;
+background-color: transparent;
+border-radius: 3%;
+}
+#h1{
+    position: relative;
+    left: 68%;
+    bottom: 28%;
+    font-size: 50px;
+}
+#h5{
+    position: relative;
+    left: 69%;
+    bottom: 26%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#img2{
+    height: 15rem; 
+width: 26%;
+position: relative;
+bottom: 16%;
+left: 9%;
+border-radius: 3%;
+}
+#img3{
+    height: 15rem; 
+width: 26%;
+position: relative;
+bottom: 16%;
+left: 11%;
+border-radius: 3%;
+}
+#img4{
+    height: 15rem; 
+width: 26%;
+position: relative;
+bottom: 16%;
+left: 13%;
+border-radius: 3%;
+}
+#h12{
+    position: relative;
+    left: 8.5%;
+    bottom: 15%;
+    font-size: 25px;
+}
+#h13{
+    position: relative;
+    left: 37%;
+    bottom: 23%;
+    font-size: 25px;
+}
+#h14{
+    position: relative;
+    left: 66%;
+    bottom: 34%;
+    font-size: 25px;
+}
+#h51{
+    position: relative;
+    left: 8%;
+    bottom: 27%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#h52{
+    position: relative;
+    left: 37%;
+    bottom: 29%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#h53{
+    position: relative;
+    left: 66%;
+    bottom: 31%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#ih4{
+    color: black;
+}
+#whitebox{
+    border: 2px solid white;
+    width: 100%;
+    height: 15rem;
+    color: black;
+    background-color: white;
+    text-align: center;
+}
+#whitebox1{
+    border: 2px solid white;
+    width: 100%;
+    height: 60rem;
+    background-color: white;
+}
+#Latest{
+    position: relative;
+    top: 10%;
+    left: 10%;
+    color: black;
+}
+#img5{
+    height: 10rem; 
+width: 20%;
+position: relative;
+top: 12%;
+left: 10%;
+border-radius: 3%;
+}
+#img6{
+    height: 10rem; 
+    width: 20%;
+position: relative;
+top: 31%;
+left: -10%;
+border-radius: 3%;
+}
+#img7{
+    height: 10rem; 
+    width: 20%;
+position: relative;
+top: 50%;
+left: -30%;
+border-radius: 3%;
+}
+#img8{
+    height: 10rem; 
+width: 20%;
+position: relative;
+top: 70%;
+left: -50%;
+border-radius: 3%;
+}
+#img9{
+    height: 10rem; 
+width: 20%;
+position: relative;
+top: -5%;
+left: 65%;
+border-radius: 3%;
+}
+#img10{
+    height: 10rem; 
+width: 20%;
+position: relative;
+top: 14%;
+left: 45%;
+border-radius: 3%;
+}
+#img11{
+    height: 10rem; 
+width: 20%;
+position: relative;
+top: 33%;
+left: 25%;
+border-radius: 3%;
+}
+#img12{
+    height: 10rem; 
+width: 20%;
+position: relative;
+top: 52%;
+left: 5%;
+border-radius: 3%;
+}
+#p1{
+ position: relative;
+ top: -22%;
+ left: 33%;  
+ font-size: 30px;
+ color: black;
+}
+#pa{
+    position: relative;
+    margin-top: 1%;
+    left: 1%;  
+    font-size: 15px;
+    color: black;
+}
+#p2{
+    position: relative;
+    top: -13%;
+    left: 33%;  
+    font-size: 30px;
+    color: black;
+}
+#pb{
+    position: relative;
+    margin-top: 1%;
+    left: 1%;  
+    font-size: 15px;
+    color: black;
+}
+#p3{
+    position: relative;
+    top: -5%;
+    left: 33%;  
+    color: black;
+    font-size: 30px;
+}
+#pc{
+    position: relative;
+    margin-top: 1%;
+    left: 1%;  
+    font-size: 15px;
+    color: black;
+}
+#p4{
+    position: relative;
+    top: 1%;
+    left: 33%;  
+    font-size: 30px;
+    color: black;
+}
+#pd{
+    position: relative;
+    margin-top: 1%;
+    left: 1%;  
+    font-size: 15px;
+    color: black;
+}
+#i3{
+    position: relative;
+    top: 20%;
+    color: black;
+}
+#div2{
+    border: 1px solid white;
+    height: 25rem;
+    width: 100%;
+    background-color: white;
+}
+#dh1{
+    color: black;
+    position: relative;
+    left: 5%;
+    top: 0%;
+}
+#im4{
+    height: 20rem;
+    width: 80%;
+    position: relative;
+    top: 5%;
+    left: 10%;
+}
